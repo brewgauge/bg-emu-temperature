@@ -1,0 +1,8 @@
+{
+  "url": "mqtt://test.mosquitto.org",
+  "topic": "brewgauge",
+  "remote_ip": "10.10.10.10",
+  "board_id": 3,
+  "channel_id": 2,
+  "interval": 1000
+}
