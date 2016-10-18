@@ -31,7 +31,6 @@
     "eslint-config-standard": "^5.3.5",
     "eslint-plugin-promise": "^2.0.0",
     "eslint-plugin-standard": "^2.0.0",
-    "git-hooks": "^1.0.0",
     "standard": "^7.1.2"
   },
   "bugs": {
